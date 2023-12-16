@@ -1,126 +1,129 @@
 body {
-font-family: Roboto, sans-serif;
-color: #434455;
-background-color: #fff;
+  font-family: Roboto, sans-serif;
+  color: #434455;
+  background-color: #fff;
 }
 a {
-text-decoration: none;
+  text-decoration: none;
 }
 ul {
-text-decoration: none;
+  text-decoration: none;
+}
+li {
+  list-style-type: none;
 }
 .logo1 {
-color: #4D5AE5;
-font-family: Raleway;
-font-size: 18px;
-font-style: normal;
-font-weight: 700;
-line-height: 21px; 
-letter-spacing: 0.54px;
-text-transform: uppercase;
+  color: #4d5ae5;
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
 }
 .logo2 {
-color: #2E2F42;
-font-family: Raleway;
-font-size: 18px;
-font-style: normal;
-font-weight: 700;
-line-height: 21px; 
-letter-spacing: 0.54px;
-text-transform: uppercase;
+  color: #2e2f42;
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
 }
 .logo3 {
-color:  #F4F4FD;
-font-family: Raleway;
-font-size: 18px;
-font-style: normal;
-font-weight: 700;
-line-height: 21px;
-letter-spacing: 0.54px;
-text-transform: uppercase;
+  color: #f4f4fd;
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
 }
 .navigation {
-color: #2E2F42;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 24px; 
-letter-spacing: 0.32px;    
+  color: #2e2f42;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.32px;
 }
 .address {
-color: #434455;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: 24px; 
-letter-spacing: 0.32px;
+  color: #434455;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
 }
 .section1 {
-background:#2E2F42;
+  background: #2e2f42;
 }
 .title {
-color: #FFF;
-text-align: center;
-font-size: 56px;
-font-style: normal;
-font-weight: 700;
-line-height: 60px;
-letter-spacing: 1.12px;
+  color: #fff;
+  text-align: center;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 1.12px;
 }
 .button {
-border-radius: 4px;
-background:#4D5AE5;
-box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-color: #FFF;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 24px;
-letter-spacing: 0.64px;
+  border-radius: 4px;
+  background: #4d5ae5;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  color: #fff;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.64px;
 }
 .section2 {
-background: #FFF;
+  background: #fff;
 }
 .section3 {
-background: #F4F4FD;
+  background: #f4f4fd;
 }
 .section4 {
-background: #FFF;    
+  background: #fff;
 }
 h2 {
-color:  #2E2F42;
-text-align: center;
-font-size: 36px;
-font-style: normal;
-font-weight: 700;
-line-height: 40px;
-letter-spacing: 0.72px;
-text-transform: capitalize;
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
 }
 h3 {
-color: #2E2F42;
-font-size: 20px;
-font-style: normal;
-font-weight: 500;
-line-height: 24px;
-letter-spacing: 0.4px;
+  color: #2e2f42;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.4px;
 }
 p {
-color: #434455;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0.32px;
+  color: #434455;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
 }
 .basement {
-background: #2E2F42;
+  background: #2e2f42;
 }
 .basement-discr {
-color: #F4F4FD;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0.32px; 
+  color: #f4f4fd;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
 }
