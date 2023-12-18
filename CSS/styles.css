@@ -16,9 +16,8 @@ li {
   color: #4d5ae5;
   font-family: Raleway;
   font-size: 18px;
-  font-style: normal;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.16667;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
@@ -26,9 +25,8 @@ li {
   color: #2e2f42;
   font-family: Raleway;
   font-size: 18px;
-  font-style: normal;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.16667;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
@@ -36,26 +34,23 @@ li {
   color: #f4f4fd;
   font-family: Raleway;
   font-size: 18px;
-  font-style: normal;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.16667;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
 .navigation {
   color: #2e2f42;
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
 .address {
   color: #434455;
   font-size: 16px;
-  font-style: normal;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
 .section1 {
@@ -65,9 +60,8 @@ li {
   color: #fff;
   text-align: center;
   font-size: 56px;
-  font-style: normal;
   font-weight: 700;
-  line-height: 60px;
+  line-height: 1.07143;
   letter-spacing: 1.12px;
 }
 .button {
@@ -76,9 +70,8 @@ li {
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   color: #fff;
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.64px;
 }
 .section2 {
@@ -94,26 +87,23 @@ h2 {
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
-  font-style: normal;
   font-weight: 700;
-  line-height: 40px;
+  line-height: 1.11111;
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
 h3 {
   color: #2e2f42;
   font-size: 20px;
-  font-style: normal;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.2;
   letter-spacing: 0.4px;
 }
 p {
   color: #434455;
   font-size: 16px;
-  font-style: normal;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
 .basement {
@@ -122,8 +112,7 @@ p {
 .basement-discr {
   color: #f4f4fd;
   font-size: 16px;
-  font-style: normal;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
