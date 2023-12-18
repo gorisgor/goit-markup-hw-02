@@ -4,23 +4,23 @@ body {
   background-color: #fff;
 }
 a {
-  text-decoration: none; 
+  text-decoration: none;
 }
 .navigation-link:hover {
-  color:#404BBF;
-}  
+  color: #404bbf;
+}
 .navigation-link-studio:hover {
-  color:#404BBF;
+  color: #404bbf;
 }
 .navigation-link-studio:focus {
-  color: #404BBF;
-  text-decoration:underline
+  color: #404bbf;
+  text-decoration: underline;
 }
 ul {
   text-decoration: none;
 }
 li {
-    list-style-type: none;
+  list-style-type: none;
 }
 .logo1 {
   color: #4d5ae5;
@@ -28,7 +28,7 @@ li {
   font-size: 18px;
   font-weight: 700;
   line-height: 1.16667;
-  letter-spacing: 0.54px;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .logo2 {
@@ -37,7 +37,7 @@ li {
   font-size: 18px;
   font-weight: 700;
   line-height: 1.16667;
-  letter-spacing: 0.54px;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .logo3 {
@@ -46,7 +46,7 @@ li {
   font-size: 18px;
   font-weight: 700;
   line-height: 1.16667;
-  letter-spacing: 0.54px;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .navigation {
@@ -54,20 +54,20 @@ li {
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 .address-link {
-color:  #434455;
-font-size: 16px;
-font-weight: 400;
-line-height: 1.5;
-letter-spacing: 0.32px;
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .address-link:hover {
-  color:#404BBF
+  color: #404bbf;
 }
 .address-link:focus {
-  color:#404BBF;
+  color: #404bbf;
   text-decoration: underline;
 }
 .section1 {
@@ -79,7 +79,7 @@ letter-spacing: 0.32px;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07143;
-  letter-spacing: 1.12px;
+  letter-spacing: 0.02em;
 }
 .button {
   border-radius: 4px;
@@ -89,11 +89,11 @@ letter-spacing: 0.32px;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.64px;
-  cursor: pointer
+  letter-spacing: 0.04em;
+  cursor: pointer;
 }
 .button:hover {
-  background:#404BBF;
+  background: #404bbf;
 }
 .section2 {
   background: #fff;
@@ -110,7 +110,7 @@ h2 {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11111;
-  letter-spacing: 0.72px;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 h3 {
@@ -118,13 +118,13 @@ h3 {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
 }
 p {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 .basement {
   background: #2e2f42;
@@ -133,5 +133,5 @@ p {
   color: #f4f4fd;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
