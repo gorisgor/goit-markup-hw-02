@@ -76,16 +76,13 @@ li {
 }
 .hero-title {
     color: #fff;
-    text-align: center;
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
 }
 .button {
-    border-radius: 4px;
     background: #4d5ae5;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     color: #fff;
     font-family: Roboto, sans-serif;
     font-size: 16px;
@@ -122,7 +119,6 @@ li {
 }
 .section-team-title {
     color:  #2E2F42;
-    text-align: center;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
@@ -134,7 +130,6 @@ li {
 }
 .section-team-subtitle {
     color: #2E2F42;
-    text-align: center;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2; 
@@ -142,7 +137,6 @@ li {
 }
 .section-team-text {
     color: #434455;
-    text-align: center;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
@@ -150,7 +144,6 @@ li {
 }
 .section-folio-title {
     color:  #2E2F42;
-    text-align: center;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
