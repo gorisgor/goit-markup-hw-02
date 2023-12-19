@@ -40,13 +40,20 @@ font-weight: 500;
 line-height: 1.5; 
 letter-spacing: 0.02em;
 }
+.navigation-link-studio {
+color: #2E2F42;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5; 
+letter-spacing: 0.02px;
+}
 .navigation-link:hover {
   color: #404bbf;
 }
-.navigation-link-studio:hover {
+.navigation-link:hover {
   color: #404bbf;
 }
-.navigation-link-studio:focus {
+.navigation-link:focus {
   color: #404bbf;
   text-decoration: underline;
 }
@@ -59,6 +66,9 @@ letter-spacing: 0.02em;
 }
 .address-link:hover {
   color: #404bbf;
+}
+.address {
+  font-style: normal;
 }
 .address-link:focus {
   color: #404bbf;
