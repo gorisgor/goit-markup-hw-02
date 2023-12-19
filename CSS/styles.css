@@ -50,9 +50,6 @@ letter-spacing: 0.02em;
 .navigation-link:hover {
   color: #404bbf;
 }
-.navigation-link:hover {
-  color: #404bbf;
-}
 .navigation-link:focus {
   color: #404bbf;
   text-decoration: underline;
